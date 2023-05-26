@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Academic</title>
+    <link>https://example.com/publication-type/3/</link>
+      <atom:link href="https://example.com/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu86a5b064965c72e8807b0bdade95d8ef_21988_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://example.com/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>CREATOR - Disentangling Abstract and Concrete Reasonings of Large Language Models through Tool Creation</title>
+      <link>https://example.com/publication/2023-arxiv-tool-creator/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2023-arxiv-tool-creator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-Context Learning of Large Language Models Explained as Kernel Regression</title>
+      <link>https://example.com/publication/2023-arxiv-iclkernel/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2023-arxiv-iclkernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LM-Switch - Lightweight Language Model Conditioning in Word Embedding Space</title>
+      <link>https://example.com/publication/2023-arxiv-lmswitch/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2023-arxiv-lmswitch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the Effect of Data Augmentation on Knowledge Distillation</title>
+      <link>https://example.com/publication/2023-arxiv-augmentation/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2023-arxiv-augmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RCOT - Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought</title>
+      <link>https://example.com/publication/2023-arxiv-rcot/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2023-arxiv-rcot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tool Learning with Foundation Models</title>
+      <link>https://example.com/publication/2023-arxiv-tool-survey/</link>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2023-arxiv-tool-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Birds of a Feather Flock Together - A Close Look at Cooperation Emergence via Multi-Agent RL</title>
+      <link>https://example.com/publication/2021-arxiv-coorperation/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021-arxiv-coorperation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Academic</title>
+    <link>https://example.com/publication-type/1/</link>
+      <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu86a5b064965c72e8807b0bdade95d8ef_21988_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://example.com/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Zero-Shot Classification by Logical Reasoning on Natural Language Explanations</title>
+      <link>https://example.com/publication/2023-acl-logic/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2023-acl-logic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logical Entity Representation in Knowledge-Graphs for Differentiable Rule Learning</title>
+      <link>https://example.com/publication/2023-iclr-logic/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2023-iclr-logic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Shared Semantic Space for Speech-to-Text Translation</title>
+      <link>https://example.com/publication/2021-acl-chimera/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021-acl-chimera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Concept-Metaconcept Learning</title>
+      <link>https://example.com/publication/2019-neurips-vcml/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2019-neurips-vcml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
