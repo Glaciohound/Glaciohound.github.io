@@ -1,15 +1,15 @@
 {
-  "name": "Academic",
-  "short_name": "Academic",
+  "name": "Chi Han (韩迟)",
+  "short_name": "Chi Han (韩迟)",
   "lang": "en-us",
   "theme_color": "#1565c0",
   "background_color": "#1565c0",
   "icons": [{
-    "src": "/media/icon_hu86a5b064965c72e8807b0bdade95d8ef_21988_192x192_fill_lanczos_center_3.png",
+    "src": "/media/icon_hu1d12346f21e5ecdd365a98f9efec3dff_21495_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/media/icon_hu86a5b064965c72e8807b0bdade95d8ef_21988_512x512_fill_lanczos_center_3.png",
+    "src": "/media/icon_hu1d12346f21e5ecdd365a98f9efec3dff_21495_512x512_fill_lanczos_center_3.png",
     "sizes": "512x512",
     "type": "image/png"
      }],

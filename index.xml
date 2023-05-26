@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>Chi Han (韩迟)</title>
+    <link>https://Glaciohound.github.io/</link>
+      <atom:link href="https://Glaciohound.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chi Han (韩迟)</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu86a5b064965c72e8807b0bdade95d8ef_21988_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
-      <link>https://example.com/</link>
+      <url>https://Glaciohound.github.io/media/icon_hu1d12346f21e5ecdd365a98f9efec3dff_21495_512x512_fill_lanczos_center_3.png</url>
+      <title>Chi Han (韩迟)</title>
+      <link>https://Glaciohound.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://Glaciohound.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://Glaciohound.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,89 +34,89 @@
     
     <item>
       <title>CREATOR - Disentangling Abstract and Concrete Reasonings of Large Language Models through Tool Creation</title>
-      <link>https://example.com/publication/2023-arxiv-tool-creator/</link>
+      <link>https://Glaciohound.github.io/publication/2023-arxiv-tool-creator/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023-arxiv-tool-creator/</guid>
+      <guid>https://Glaciohound.github.io/publication/2023-arxiv-tool-creator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In-Context Learning of Large Language Models Explained as Kernel Regression</title>
-      <link>https://example.com/publication/2023-arxiv-iclkernel/</link>
+      <link>https://Glaciohound.github.io/publication/2023-arxiv-iclkernel/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023-arxiv-iclkernel/</guid>
+      <guid>https://Glaciohound.github.io/publication/2023-arxiv-iclkernel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LM-Switch - Lightweight Language Model Conditioning in Word Embedding Space</title>
-      <link>https://example.com/publication/2023-arxiv-lmswitch/</link>
+      <link>https://Glaciohound.github.io/publication/2023-arxiv-lmswitch/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023-arxiv-lmswitch/</guid>
+      <guid>https://Glaciohound.github.io/publication/2023-arxiv-lmswitch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding the Effect of Data Augmentation on Knowledge Distillation</title>
-      <link>https://example.com/publication/2023-arxiv-augmentation/</link>
+      <link>https://Glaciohound.github.io/publication/2023-arxiv-augmentation/</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023-arxiv-augmentation/</guid>
+      <guid>https://Glaciohound.github.io/publication/2023-arxiv-augmentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zero-Shot Classification by Logical Reasoning on Natural Language Explanations</title>
-      <link>https://example.com/publication/2023-acl-logic/</link>
+      <link>https://Glaciohound.github.io/publication/2023-acl-logic/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023-acl-logic/</guid>
+      <guid>https://Glaciohound.github.io/publication/2023-acl-logic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RCOT - Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought</title>
-      <link>https://example.com/publication/2023-arxiv-rcot/</link>
+      <link>https://Glaciohound.github.io/publication/2023-arxiv-rcot/</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023-arxiv-rcot/</guid>
+      <guid>https://Glaciohound.github.io/publication/2023-arxiv-rcot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tool Learning with Foundation Models</title>
-      <link>https://example.com/publication/2023-arxiv-tool-survey/</link>
+      <link>https://Glaciohound.github.io/publication/2023-arxiv-tool-survey/</link>
       <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023-arxiv-tool-survey/</guid>
+      <guid>https://Glaciohound.github.io/publication/2023-arxiv-tool-survey/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Logical Entity Representation in Knowledge-Graphs for Differentiable Rule Learning</title>
-      <link>https://example.com/publication/2023-iclr-logic/</link>
+      <link>https://Glaciohound.github.io/publication/2023-iclr-logic/</link>
       <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023-iclr-logic/</guid>
+      <guid>https://Glaciohound.github.io/publication/2023-iclr-logic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Shared Semantic Space for Speech-to-Text Translation</title>
-      <link>https://example.com/publication/2021-acl-chimera/</link>
+      <link>https://Glaciohound.github.io/publication/2021-acl-chimera/</link>
       <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2021-acl-chimera/</guid>
+      <guid>https://Glaciohound.github.io/publication/2021-acl-chimera/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Birds of a Feather Flock Together - A Close Look at Cooperation Emergence via Multi-Agent RL</title>
-      <link>https://example.com/publication/2021-arxiv-coorperation/</link>
+      <link>https://Glaciohound.github.io/publication/2021-arxiv-coorperation/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2021-arxiv-coorperation/</guid>
+      <guid>https://Glaciohound.github.io/publication/2021-arxiv-coorperation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://Glaciohound.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://Glaciohound.github.io/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -194,17 +194,17 @@
     
     <item>
       <title>Visual Concept-Metaconcept Learning</title>
-      <link>https://example.com/publication/2019-neurips-vcml/</link>
+      <link>https://Glaciohound.github.io/publication/2019-neurips-vcml/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2019-neurips-vcml/</guid>
+      <guid>https://Glaciohound.github.io/publication/2019-neurips-vcml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://example.com/post/writing-technical-content/</link>
+      <link>https://Glaciohound.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/writing-technical-content/</guid>
+      <guid>https://Glaciohound.github.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -304,7 +304,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-152437986&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-962438751&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -314,7 +314,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-152437986&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-962438751&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -596,9 +596,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://example.com/post/jupyter/</link>
+      <link>https://Glaciohound.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/jupyter/</guid>
+      <guid>https://Glaciohound.github.io/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -655,9 +655,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://Glaciohound.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://Glaciohound.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -780,9 +780,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
+      <link>https://Glaciohound.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>https://Glaciohound.github.io/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -793,17 +793,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
+      <link>https://Glaciohound.github.io/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
+      <guid>https://Glaciohound.github.io/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://Glaciohound.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://Glaciohound.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
